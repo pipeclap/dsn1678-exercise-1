@@ -29,12 +29,16 @@ body {
 }
 
 img {
-  display: block;
   width: 100%;
+  position: relative;
+
 }
 
 .caption{
+  position: absolute;
   font-family: serif;
+  color: #ffffff;
+  margin: -12% 0;
 }
 
 .subtitle{
