@@ -34,7 +34,7 @@ img {
 }
 
 .caption{
-
+  font-family: serif;
 }
 
 .subtitle{
@@ -51,8 +51,12 @@ li{
   list-style-type: none;
 }
 
+.table{
+  overflow: hidden;
+}
+
 .t-heading{
-  color: #ffffff;
+  color: #E2E2E2;
 }
 
 
