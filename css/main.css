@@ -8,6 +8,7 @@ html {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  background-color: #E2E2E2;
 
   font: normal 100%/1.5 sans-serif;
   -moz-text-size-adjust: 100%;
@@ -23,6 +24,8 @@ html {
 body {
   margin: 0;
   padding: 0;
+  border-radius: 4%;
+  background-color: #ffffff;
 }
 
 img {
@@ -31,7 +34,7 @@ img {
 }
 
 .caption{
-  margin-top: 10%;
+
 }
 
 .subtitle{
@@ -49,7 +52,7 @@ li{
 }
 
 .t-heading{
-  color: #E2E2E2;
+  color: #ffffff;
 }
 
 
