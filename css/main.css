@@ -29,3 +29,35 @@ img {
   display: block;
   width: 100%;
 }
+
+.caption{
+
+}
+
+.subtitle{
+  font-weight: 600;
+  margin-left: 10%;
+}
+
+
+ul{
+  float: left;
+}
+
+li{
+  list-style-type: none;
+}
+
+.t-heading{
+  color: #E2E2E2;
+}
+
+
+
+
+
+
+
+
+
+
