@@ -55,11 +55,15 @@ img {
 
 ul{
   float: left;
-  border-left: 1px solid #ccc;
 }
 
 li{
   list-style-type: none;
+}
+
+.divide{
+    border-left: 1px solid #ccc;
+    margin-left: 5%;
 }
 
 .table{
